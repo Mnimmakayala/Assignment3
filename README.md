@@ -3,7 +3,7 @@ Project Title:
 Car Rental Management system
 
 Description:
-This project is used for creating a car rental management system incoporating the object orienting peinciples like encapsulation, inheritance etc
+This project is used for creating a car rental management system incoporating the object orienting principles like encapsulation, inheritance etc
 
 Executing program:
 
